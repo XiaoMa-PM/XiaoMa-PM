@@ -19,8 +19,6 @@
 
 **`Architecture · Agent Engineering · Systems`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=XiaoMa-PM&color=58a6ff&style=flat-square&hide_border=true)
-[![GitHub followers](https://img.shields.io/github/followers/XiaoMa-PM?color=58a6ff&style=flat-square&hide_border=true)](https://github.com/XiaoMa-PM)
-[![Stars](https://img.shields.io/github/stars/XiaoMa-PM?color=58a6ff&style=flat-square&hide_border=true)](https://github.com/XiaoMa-PM)
+![Contribution Grid](https://raw.githubusercontent.com/XiaoMa-PM/XiaoMa-PM/master/contribution-grid.svg)
 
 </div>
