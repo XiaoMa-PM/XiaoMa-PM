@@ -27,13 +27,6 @@
 
 ---
 
-## ┌─ PROFILE STATS ──────────────────────────────────────┐
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=XiaoMa-PM&theme=radical&hide_border=true&show_icons=true&count_private=true&rank_icon=github)
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMa-PM&theme=radical&hide_border=true&layout=compact&langs_count=8)
-
-## └──────────────────────────────────────────────────────┘
-
 ## ┌─ CAPABILITIES ───────────────────────────────────────┐
 
 ```
