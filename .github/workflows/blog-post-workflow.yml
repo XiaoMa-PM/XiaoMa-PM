@@ -1,0 +1,31 @@
+name: Blog Post Workflow
+
+on:
+  schedule:
+    # ┌─────────────────────────────────────────────────────────┐
+    # │  每隔6小时自动抓取一次RSS (北京时间 8h / 14h / 20h / 2h)   │
+    # │  只需在公众号/知乎后台开启 RSS 并替换下方 feed_list URL    │
+    # └─────────────────────────────────────────────────────────┘
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    # 手动触发: Actions → Blog Post Workflow → Run workflow
+
+jobs:
+  update-readme-blog-section:
+    runs-on: ubuntu-latest
+    name: Update Blog Feed
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # ⚠️ 替换为你的 RSS feed URL，例如：
+          # feed_list: "https://mp.weixin.qq.com/rss?xxx"
+          # feed_list: "https://zhuanlan.zhihu.com/xxx/rss"
+          feed_list: ""
+          timeout: "120"
+          last_fetch_count: "5"
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
