@@ -19,6 +19,6 @@
 
 **`🏘️ Architecture · 🧑🏼‍💻 Agent Engineering · 🤖 Embodied AI`**
 
-![Contribution Snake](https://raw.githubusercontent.com/XiaoMa-PM/XiaoMa-PM/master/contribution-snake.svg)
+![Contribution Snake](contribution-snake.svg)
 
 </div>
