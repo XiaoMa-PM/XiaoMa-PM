@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**`🏛 Architecture · Agent Engineering · Systems`**
+**`🏘️ Architecture · 🧑🏼‍💻 Agent Engineering · 🤖 Embodied AI`**
 
 ![Contribution Grid](https://raw.githubusercontent.com/XiaoMa-PM/XiaoMa-PM/master/contribution-grid.svg)
 
