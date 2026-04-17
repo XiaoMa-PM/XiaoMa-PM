@@ -49,17 +49,42 @@
 
 ## ┌─ FEATURED PROJECTS ───────────────────────────────────┐
 
-<div align="left">
+<p align="center">
+<a href="https://github.com/datawhalechina/hello-agents">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=hello-agents&theme=radical&hide_border=true&show_icons=true" width="48%" alt="hello-agents"/>
+</a>
+<a href="https://github.com/datawhalechina/self-llm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=self-llm&theme=radical&hide_border=true&show_icons=true" width="48%" alt="self-llm"/>
+</a>
+<a href="https://github.com/datawhalechina/happy-llm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=happy-llm&theme=radical&hide_border=true&show_icons=true" width="48%" alt="happy-llm"/>
+</a>
+<a href="https://github.com/XiaoMa-PM/Musegent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoMa-PM&repo=Musegent&theme=radical&hide_border=true&show_icons=true" width="48%" alt="Musegent"/>
+</a>
+</p>
 
-[![Star](https://img.shields.io/badge/★-37,936-58a6ff?style=flat-square&hide_border=true)](https://github.com/datawhalechina/hello-agents)
-**[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)**
-└─ An open-source guide to building AI Agents from scratch · 37,936 ⭐
+<p align="center">
+  <a href="https://github.com/datawhalechina/pumpkin-book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=pumpkin-book&theme=radical&hide_border=true&show_icons=true" width="31%" alt="pumpkin-book"/>
+  </a>
+  <a href="https://github.com/datawhalechina/llm-cookbook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=llm-cookbook&theme=radical&hide_border=true&show_icons=true" width="31%" alt="llm-cookbook"/>
+  </a>
+  <a href="https://github.com/datawhalechina/easy-rl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=easy-rl&theme=radical&hide_border=true&show_icons=true" width="31%" alt="easy-rl"/>
+  </a>
+</p>
 
-[![Musegent](https://img.shields.io/badge/-Musegent-58a6ff?style=flat-square&hide_border=true)](https://github.com/XiaoMa-PM/Musegent)
-**[Musegent](https://github.com/XiaoMa-PM/Musegent)** `🚧 UNDER CONSTRUCTION`
-└─ Multi-Agent Music Generation Framework
-
-</div>
+<p align="center">
+  <sub>
+    ⭐
+    <a href="https://github.com/datawhalechina/hello-agents">hello-agents · 37.9k</a> ·
+    <a href="https://github.com/datawhalechina/self-llm">self-llm · 29.9k</a> ·
+    <a href="https://github.com/datawhalechina/happy-llm">happy-llm · 29.0k</a> ·
+    <a href="https://github.com/XiaoMa-PM/Musegent">Musegent · WIP</a>
+  </sub>
+</p>
 
 ## └──────────────────────────────────────────────────────┘
 
