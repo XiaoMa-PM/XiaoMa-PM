@@ -18,7 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: XiaoMa-PM
-          args: --output contribution-snake.svg --fill-color #161b22 --pen-color #58a6ff --theme dark
+          args: --output contribution-snake.svg --fill-color 161b22 --pen-color 58a6ff --theme dark
 
       - name: Push snake SVG to repo
         run: |
