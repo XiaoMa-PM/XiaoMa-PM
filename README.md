@@ -49,42 +49,17 @@
 
 ## ┌─ FEATURED PROJECTS ───────────────────────────────────┐
 
-<p align="center">
-<a href="https://github.com/datawhalechina/hello-agents">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=hello-agents&theme=radical&hide_border=true&show_icons=true" width="48%" alt="hello-agents"/>
-</a>
-<a href="https://github.com/datawhalechina/self-llm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=self-llm&theme=radical&hide_border=true&show_icons=true" width="48%" alt="self-llm"/>
-</a>
-<a href="https://github.com/datawhalechina/happy-llm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=happy-llm&theme=radical&hide_border=true&show_icons=true" width="48%" alt="happy-llm"/>
-</a>
-<a href="https://github.com/XiaoMa-PM/Musegent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoMa-PM&repo=Musegent&theme=radical&hide_border=true&show_icons=true" width="48%" alt="Musegent"/>
-</a>
-</p>
+> 🔥 Trending repos from my work
 
-<p align="center">
-  <a href="https://github.com/datawhalechina/pumpkin-book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=pumpkin-book&theme=radical&hide_border=true&show_icons=true" width="31%" alt="pumpkin-book"/>
-  </a>
-  <a href="https://github.com/datawhalechina/llm-cookbook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=llm-cookbook&theme=radical&hide_border=true&show_icons=true" width="31%" alt="llm-cookbook"/>
-  </a>
-  <a href="https://github.com/datawhalechina/easy-rl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=easy-rl&theme=radical&hide_border=true&show_icons=true" width="31%" alt="easy-rl"/>
-  </a>
-</p>
+<div align="left">
 
-<p align="center">
-  <sub>
-    ⭐
-    <a href="https://github.com/datawhalechina/hello-agents">hello-agents · 37.9k</a> ·
-    <a href="https://github.com/datawhalechina/self-llm">self-llm · 29.9k</a> ·
-    <a href="https://github.com/datawhalechina/happy-llm">happy-llm · 29.0k</a> ·
-    <a href="https://github.com/XiaoMa-PM/Musegent">Musegent · WIP</a>
-  </sub>
-</p>
+**⭐ [hello-agents](https://github.com/datawhalechina/hello-agents)** — fork · 37,936 ⭐
+└─ `Python` · 《从零开始构建智能体》开源教程
+
+**[Musegent](https://github.com/XiaoMa-PM/Musegent)** — original · 🚧 WIP
+└─ `Python` · Multi-Agent Music Generation Framework
+
+</div>
 
 ## └──────────────────────────────────────────────────────┘
 
