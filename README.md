@@ -19,6 +19,6 @@
 
 **`Architecture · Agent Engineering · Systems`**
 
-![Contribution Grid](https://raw.githubusercontent.com/XiaoMa-PM/XiaoMa-PM/master/contribution-grid.svg)
+![Contribution Snake](https://raw.githubusercontent.com/XiaoMa-PM/XiaoMa-PM/master/contribution-snake.svg)
 
 </div>
