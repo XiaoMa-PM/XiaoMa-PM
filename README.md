@@ -19,6 +19,4 @@
 
 **`🏘️ Architecture · 🧑🏼‍💻 Agent Engineering · 🤖 Embodied AI`**
 
-![Contribution Snake](contribution-snake.svg)
-
 </div>
