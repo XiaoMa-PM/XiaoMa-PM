@@ -23,8 +23,6 @@ jobs:
           # feed_list: "https://mp.weixin.qq.com/rss?xxx"
           # feed_list: "https://zhuanlan.zhihu.com/xxx/rss"
           feed_list: ""
-          timeout: "120"
-          last_fetch_count: "5"
 
       - uses: actions/checkout@v4
         with:
